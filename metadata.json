@@ -1,0 +1,8 @@
+{
+  "uuid": "tiko@manikuttan-mm1",
+  "name": "Tiko",
+  "description": "Tiko, a little robot pet that lives on your desktop: walks over your windows, plays, reacts to how you treat it, and helps with meetings, focus and your workday.",
+  "shell-version": ["50"],
+  "url": "https://github.com/manikuttan-mm1/tiko",
+  "version": 1
+}
